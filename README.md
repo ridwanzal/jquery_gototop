@@ -18,7 +18,7 @@ This is the full source code looks like
    </div>
   </a>
  </body>
- <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jqu$
+ <script type="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js">
  <script>
   $(document).ready(function(){
     $(windows).scroll(function(){
