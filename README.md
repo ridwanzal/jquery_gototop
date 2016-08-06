@@ -13,7 +13,7 @@ This is the full source code looks like
  </head>
  <body>
   <a href='#home' tile="Go to top">
-   <div class="arrowup>
+   <div class="arrowup">
     <img src="/path/of/image/">
    </div>
   </a>
