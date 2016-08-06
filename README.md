@@ -1,6 +1,5 @@
 # jquery_gototop
-This is simple and useful go to top jquery with full example
-All you have to do is adding jquery library via CDN (google apis) and
+This is simple and useful go to top jquery with full example. All you have to do is adding jquery library via CDN (google apis) and
 start writing some code
 
 This is the full source code looks like
