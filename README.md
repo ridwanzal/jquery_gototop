@@ -5,7 +5,7 @@ start writing some code
 
 This is the full source code looks like
 
-```
+```javascript
 <!DOCTYPE HTML>
 <html>
  <head>
